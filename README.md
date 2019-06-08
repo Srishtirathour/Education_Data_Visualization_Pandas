@@ -1,4 +1,4 @@
-# Education_Data_Visualization_Pandas
+# Prisoners_Education_Data_Visualization_Pandas
 
 ##Topics covered:
 1. using pandas and seaborn and matplot
